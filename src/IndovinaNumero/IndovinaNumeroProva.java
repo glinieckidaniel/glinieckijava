@@ -4,6 +4,7 @@ public class IndovinaNumeroProva {
 
     public static void main(String[] args) {
         int n = 11;
+        
         IndovinaNumero n1 = new IndovinaNumero(n);
         
         String testoDaStampare;
