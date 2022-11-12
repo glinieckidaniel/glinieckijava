@@ -32,7 +32,7 @@ public class IndovinaNumero {
     }
 
     public String stampa() {
-        String s = "numPensato :" + numPensato;
+        String s = "numPensato: " + numPensato;
         return s;
         
         /* 
@@ -42,6 +42,4 @@ public class IndovinaNumero {
         return s;
         */
     }
-    
-    
 }
