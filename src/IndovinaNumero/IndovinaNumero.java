@@ -27,7 +27,7 @@ public class IndovinaNumero {
         num /= 2;
         num -= numPensato;
         
-        testo ="il numero pensato è" + numPensato + "e il risultato è" + num;
+        testo ="il numero pensato è " + numPensato + " e il risultato è " + num;
         return testo;
     }
 

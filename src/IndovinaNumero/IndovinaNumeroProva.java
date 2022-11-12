@@ -10,6 +10,8 @@ public class IndovinaNumeroProva {
         
         testoDaStampare = n1.stampa();
         
+        System.out.println(n1.pensa());
+        
         System.out.println(testoDaStampare);
     }
 
